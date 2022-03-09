@@ -1,0 +1,16 @@
+.table-header {
+  cursor: pointer;
+}
+
+td,
+th {
+  border-bottom: 1px solid rgb(199, 199, 199);
+  padding-right: 15px;
+}
+
+table {
+  border-spacing: 0px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid rgba(199, 199, 199, 0.548);
+}

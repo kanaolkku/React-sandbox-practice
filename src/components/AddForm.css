@@ -1,0 +1,10 @@
+.form-input {
+  display: block;
+  border-radius: 5px;
+  margin: 3px 0;
+}
+
+th,
+td {
+  padding-right: 10px;
+}
